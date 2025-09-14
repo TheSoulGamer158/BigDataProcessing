@@ -1,4 +1,4 @@
-#Naive Bayes for Big Data Processing
+# Naive Bayes for Big Data Processing
 
 Dieses Repository enthält eine Fallstudie zur Anwendung von Naive Bayes im Bereich Big Data Processing. Ziel ist der Vergleich einer klassischen scikit-learn Implementierung (Single Node) mit einer verteilten Apache Spark MLlib Implementierung.
 
