@@ -13,3 +13,8 @@ Dieses Repository enthält eine Fallstudie zur Anwendung von Naive Bayes im Bere
 # Ergebnisse (Kurzfassung)
 - scikit-learn: 98,9 % Accuracy, schnelle Trainingszeit, aber aufwändige Feature-Extraktion
 - Spark MLlib: Laufzeitvorteile durch Parallelisierung, geringere Accuracy
+
+# Ausführung
+1. Nach Installation aller Paket erst die main.py zum duplizieren der Daten
+2. Dann single_node.py für Einzelausführung auf dem Gerät mit scikit-learn
+3. Anschließend cluster_comparision.py für Auswertung von Spark MLlib als Single-Node und Mulit-Node
